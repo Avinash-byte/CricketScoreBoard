@@ -1,2 +1,10 @@
 # CricketScoreBoard
-Simple Program to display (Team name, Runs, overs, wickets, Run rate)
+
+## Simple Java Program to Calculate and display
+- Team name
+- Runs
+- Overs
+- Wickets
+- Run rate 
+
+Happy Coding 😊
